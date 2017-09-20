@@ -1,10 +1,10 @@
 [
   {
-    "date": "20/09/2017",
+    "date": "09/20/2017",
     "data": { "totalSteps": 100, "steps": 90, "running": 10 }
   },
   {
-    "date": "19/09/2017",
+    "date": "09/20/2017",
     "data": { "totalSteps": 101, "steps": 100, "running": 1 }
   }
 ]
