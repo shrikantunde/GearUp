@@ -2,18 +2,22 @@
   
   {
     "date": "9/20/2017",
-    "data": { "totalSteps": 120, "steps": 90, "running": 20 }
+    "data": { "totalSteps": 120, "steps": 90, "running": 20 },
+	"chartData":{"walking":[90, 0, 0, 0, 0, 0, 0],"running":[]}
   },
   {
     "date": "9/19/2017",
-    "data": { "totalSteps": 101, "steps": 100, "running": 1 }
+    "data": { "totalSteps": 101, "steps": 100, "running": 1 },
+	"chartData":{"walking":[0, 0, 90, 0, 0, 0, 0],"running":[]}
   },
   {
     "date": "9/18/2017",
-    "data": { "totalSteps": 118, "steps": 100, "running": 18 }
+    "data": { "totalSteps": 118, "steps": 100, "running": 18 },
+	"chartData":{"walking":[0, 0, 0, 90, 0, 0, 0],"running":[]}
   },
   {
     "date": "9/17/2017",
-    "data": { "totalSteps": 117, "steps": 100, "running": 17 }
+    "data": { "totalSteps": 117, "steps": 100, "running": 17 },
+	"chartData":{"walking":[0, 0, 0, 0, 0, 90, 0],"running":[]}
   }
 ]
